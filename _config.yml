@@ -1,4 +1,4 @@
 tittle: Sumanth Chilupuri
-logo: /Users/sumanthreddychilupuri/Desktop/career/Intern/Headshot.png
-show_downloads: true
+#logo: /Users/sumanthreddychilupuri/Desktop/career/Intern/Headshot.png
+show_downloads: false
 theme: jekyll-theme-minimal
