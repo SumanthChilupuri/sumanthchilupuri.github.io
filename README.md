@@ -1,4 +1,4 @@
-# Data Driven Journey
+# On a Data Driven Journey
 
 ### EDUCATION 
 University of Massachusetts Amherst Isenberg School of Management
@@ -6,7 +6,8 @@ Master of Science in Business Analytics	 						                                 
 *	Relevant coursework: Business Application Development in Python; Data Science for Business; Data Mining in Business; Statistics for Business; Project Management; Data Visualization in Business; Project Management; Supply Chain Analytics.
 
 
-###EMPLOYEMNT
+###EMPLOYMENT
+
 Infosys Limited						                                                                                           						 Hyderabad, India
 Data Analyst/ Digital Specialist Engineer			                                                                 					  August 2021-August 2023
 
@@ -18,5 +19,6 @@ Within a year, my exceptional grasp of core concepts, technical mastery, and eff
 
 Alongside these achievements, I also demonstrated my problem-solving prowess by securing a Top 500 rank nationwide at HackWithInfy, Infosys' esteemed algorithm-focused hackathon. This experience solidified my passion for data analytics and motivated me to pursue a Master's degree, where I could further hone my skills and explore new frontiers in the field.
 
-#PROJECT
+###PROJECT
+
 Lights, Camera, Analytics!                                                                                                 November-December 2023
