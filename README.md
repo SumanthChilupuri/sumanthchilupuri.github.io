@@ -10,5 +10,6 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Sumanth Chilupuri**
 
-* [LinkedIn](https://www.linkedin.com/in/sumanthreddy-c/)
-* [GitHub](https://github.com/SumanthChilupuri)
+*) [LinkedIn] (https://www.linkedin.com/in/sumanthreddy-c/)
+  
+*) [GitHub](https://github.com/SumanthChilupuri)
