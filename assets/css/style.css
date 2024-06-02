@@ -361,7 +361,7 @@ section .container {
 section .container1 {
   background: rgba(0, 0, 0, 0);
   padding: 30px;
-  padding-top: 5%;
+  padding-top: 7.5%;
 }
 
 @media (max-width: 768px) {
