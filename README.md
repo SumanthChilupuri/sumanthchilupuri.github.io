@@ -1,4 +1,4 @@
-# SumanthChilupuri.github.io
+# Data Portfolio
 
 My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://sumanthchilupuri.github.io).
 
