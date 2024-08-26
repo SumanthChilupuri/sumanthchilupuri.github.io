@@ -1142,3 +1142,62 @@ section .container1 {
     transform: translateX(-50%);
   }
 }
+
+
+/*--------------------------------------------------------------
+# Project
+--------------------------------------------------------------*/
+
+#projects .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#projects .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#projects .icon-box {
+  box-sizing: border-box;
+  flex: 0 1 30%; /* Adjusts to have 3 items per row with some space */
+  margin: 15px 0;
+  padding: 15px;
+  background-color: #1c1c1c;
+  text-align: center;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#projects .icon-box img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+#projects .icon-box h5 {
+  margin-top: 10px;
+  color: #12d640;
+  font-weight: bold;
+}
+
+#projects .icon-box p {
+  color: #fff;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  #projects .icon-box {
+    flex: 0 1 45%; /* Two items per row on smaller screens */
+  }
+}
+
+@media (max-width: 576px) {
+  #projects .icon-box {
+    flex: 0 1 100%; /* One item per row on very small screens */
+  }
+}
